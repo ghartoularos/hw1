@@ -1,3 +1,7 @@
 hw1env/
 timebub.pkl
 timequi.pkl
+__pycache__/
+.ipynb_checkpoints
+.pytest_cache/v/cache
+.cache/v/cache
